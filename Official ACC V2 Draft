@@ -189,7 +189,7 @@
  <tr>
                                 <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color:#001E5B;">
 
-                                       Top Partners Included:
+                                        Top ISV Partners
  <br>
                                    
                                 </td>
@@ -484,7 +484,7 @@ Stay in the loop on all things Tech Partners!
                                                         </td>
                                                         <td width="40" style="width:40px"></td>
                                                         <td width="220" style="width: 220px; font-family: Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 400; color: #001E5B;">
-                                                            of our FY26 target with 24% in our Q2 pipeline
+                                                            of our FY26 target closed in Q1
                                                         </td>
                                                     </tr>
                                                 </table>
@@ -549,47 +549,52 @@ Stay in the loop on all things Tech Partners!
                 </tr>
             </table>
 
-            <table class="heading" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation" width="750" background="#FFFFFF" style="width: 750px; max-width:750px; background-color:#FFFFFF">
+           <table class="spacer" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation" width="750" background="#FFFFFF" style="width: 750px; max-width:750px; background-color:#FFFFFF">
+    <tr>
+    </tr>
+</table>
+
+<table class="heading" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation" width="750" background="#FFFFFF" style="width: 750px; max-width:750px; background-color:#FFFFFF">
+    <tr>
+        <td width="70" style="width:70px"></td>
+        <td class="heading" width="610" style="width:610px; font-family: Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 400; color: #001E5B; padding-top: 10px;">
+
+            <table cellpadding="0" cellspacing="0" border="0" align="left" role="presentation" width="610" style="width: 610px; max-width:610px;">
                 <tr>
-                    <td width="70" style="width:70px"></td>
-                    <td class="heading" width="610" style="width:610px; font-family: Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 400; color: #001E5B; padding-top: 10px;">
+                    <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
+                        Our Enablement
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color: #001E5B;">
+                        Reach out to our new <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U07AS2X3LNM" target="_blank" style="color: #7526E3;">Sales Programs team</a></span> for <br>
+                        dedicated enablement on how Tech Partners <br>
+                        drive revenue
+                    </td>
+
+
+
+               <tr>
+                                            <td height="40" style="height:40px"></td>
+                                        </tr> </tr>
+
+<td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
+Two AWS Marketplace dedicated leads:
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color: #001E5B;">
+                        <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U035HUWG9FY" target="_blank" style="color: #7526E3;">Clayton Pisani</a></span> - TMT <br> <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/W01743VQV71" target="_blank" style="color: #7526E3;">Mike Parmenter</a></span> - CBS <br>
                         
-                        <table class="heading" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation" width="610" background="#FFFFFF" style="width: 610px; max-width:610px; background-color:#FFFFFF">
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Our Enablement
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color: #001E5B;">
-                                    Reach out to our new <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U07AS2X3LNM" target="_blank" style="color: #7526E3;">Sales Programs team</a></span> for <br>
-                                    dedicated enablement on how Tech Partners <br>
-                                    drive revenue
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="24" style="height:24px"></td>
-                            </tr>
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Two AWS Marketplace dedicated leads
-                                </td>
-                            </tr>
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color: #001E5B;">
-                                    <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U035HUWG9FY" target="_blank" style="color: #7526E3;">Clayton Pisani </a></span> - TMT <br> 
-                                   <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/W01743VQV71" target="_blank" style="color: #7526E3;">Mike Parmenter </a></span> - CBS 
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="24" style="height:24px"></td>
-                            </tr>
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Please forward this to your teams!
-                                </td>
-                            </tr>
-                        </table>
+                    </td>
+            </table>
+
+        </td>
+        <td width="70" style="width:70px"></td>
+    </tr>
+</table>
+
+
                         
                     </td>
                     <td width="180" style="width:180px"></td>

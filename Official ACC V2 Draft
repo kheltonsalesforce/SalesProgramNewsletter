@@ -186,8 +186,26 @@
                             <tr>
                                 <td style="font-family: Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 700; color: #7526E3;">
                                     ISV Partners
+ <tr>
+                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color:#001E5B;">
+
+                                       Top Partners Included:
+ <br>
+                                   
                                 </td>
-                            </tr>
+
+
+                                </td>
+                                <td height="600" style="height:60px"></td>
+
+
+                            </tr> <td>
+                                    <img 
+                                    src="https://1.salesforce-partners.com/l/902521/2025-05-16/wbm1f/902521/1747430536Y7t6tChk/ACC.png" 
+                                    alt=""
+                                    width="440"
+                                    style="display: block; width: 440px; max-width: 440px;">
+                                </td>
                             <tr>
                                 <td height="40" style="height:40px"></td>
                             </tr>
@@ -196,38 +214,26 @@
                                     <strong>
                                         297 ISV Partners delivered $5.6M in ACV <br> to ACC in Q1
  <br>
-                                   </strong> Top partners include: 
+                                   
                                 </td>
                             </tr>
                             <tr>
-                                <td height="40" style="height:20px"></td>
                             </tr>
                             <tr>
-                                <td>
-                                    <img 
-                                    src="https://1.salesforce-partners.com/l/902521/2025-05-16/wbm1f/902521/1747430536Y7t6tChk/ACC.png" 
-                                    alt=""
-                                    width="440"
-                                    style="display: block; width: 440px; max-width: 440px;">
-                                </td>
+                               
                             </tr>
+
+
                             <tr>
                                 <td height="40" style="height:40px"></td>
+
                             </tr>
                             <tr>
                                 <td class="line" width="610" height="1" bgcolor="#7526E3" style="width:610px; height: 1px; background-color: #7526E3;"></td>
                             </tr>
                             <tr>
-                                <td height="40" style="height:40px"></td>
                             </tr>
-                            <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color:#001E5B;">
-                                    <strong>The largest ISV deal was $779K of direct ACV with Certinia and PWC
-</strong> <br>
-                                    Certinia has produced $1.2M total ACV in Q1.<br>
-                                    <a href="https://docs.google.com/presentation/d/15fVyMWpMEncrshAPyQaU-bsbaOndL0e4VIIloyzietE/edit?usp=sharing" target="_blank" style="color: #7526E3;">Read the story here</a>
-                                </td>
-                            </tr>
+                           
                             <tr>
                                 <td height="40" style="height:40px"></td>
                             </tr>
@@ -239,10 +245,22 @@
                                     width="440"
                                     style="display: block; width: 440px; max-width: 440px;">
                                 </td>
+
                             </tr>
                             <tr>
                                 <td height="40" style="height:40px"></td>
+
                             </tr>
+<tr>
+                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color:#001E5B;">
+                                    <strong>The largest ISV deal was $779K of direct ACV with Certinia and PWC
+</strong> <br>
+                                    Certinia has produced $1.2M total ACV in Q1.<br>
+                                    <a href="https://docs.google.com/presentation/d/15fVyMWpMEncrshAPyQaU-bsbaOndL0e4VIIloyzietE/edit?usp=sharing" target="_blank" style="color: #7526E3;">Read the story here</a>
+                                </td>
+                            </tr>
+                                <td height="40" style="height:40px"></td>
+
                             <tr>
                                 <td class="line" width="610" height="1" bgcolor="#7526E3" style="width:610px; height: 1px; background-color: #7526E3;"></td>
                             </tr>
@@ -261,10 +279,7 @@
                             </tr>
                             <tr>
                                 <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color:#001E5B;">
-                                    Starting May 13th, ISV partners can drive <br>
-                                    new use cases and consumption as the Flex <br>
-                                    Credit model goes live, enabling Agentforce <br>
-                                    actions to draw down on Flex Credits <br><br>
+                                
 
 <strong>Launch of Agentforce for OEM Pilot in May</strong>
 
@@ -353,7 +368,7 @@ Stay in the loop on all things Tech Partners!
                                     src="https://1.salesforce-partners.com/l/902521/2025-05-16/wbm3m/902521/1747433011ZH0DMsmW/image_12.png" 
                                     alt="AWS Marketplace"
                                     width="230"
-                                    style="display: block; width: 230px; max-width: 230px;">
+                                    style="display: block; width: 440px; max-width: 440px;">
                                 </td>
                             </tr>
                             <tr>
@@ -402,7 +417,7 @@ Stay in the loop on all things Tech Partners!
                                     src="https://1.salesforce-partners.com/l/902521/2025-05-16/wbm1t/902521/1747431636YY65T0U6/62c6c967eee9410fe137d93f_1.png" 
                                     alt="AWS Marketplace"
                                     width="130"
-                                    style="display: block; width: 130px; max-width: 130px;">
+                                    style="display: block; width: 220px; max-width: 220px;">
                                 </td>
                             </tr>
                             <tr>

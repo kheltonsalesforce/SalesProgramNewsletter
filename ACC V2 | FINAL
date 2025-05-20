@@ -112,6 +112,8 @@
                                         <tr>
                                             <td height="40" style="height:40px"></td>
                                         </tr>
+
+
                                         <tr>
                                             <td>
                                                 <img 
@@ -124,6 +126,16 @@
                                         <tr>
                                             <td height="40" style="height:40px"></td>
                                         </tr>
+
+<tr>
+                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #FFFFFF;">
+                                    Please forward this to your teams!
+                                </td>
+
+   <tr>
+                                            <td height="40" style="height:40px"></td>
+                                        </tr>
+
                                         <tr>
                                             <td>
                                                 <img 
@@ -590,9 +602,7 @@ Two AWS Marketplace dedicated leads:
                         
                     </td>
 <tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Please forward this to your teams!
-                                </td>
+                              
 
 
             </table>

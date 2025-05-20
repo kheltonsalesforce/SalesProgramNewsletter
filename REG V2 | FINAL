@@ -110,8 +110,11 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td height="40" style="height:40px"></td>
+                                            <td height="30" style="height:30px"></td>
                                         </tr>
+
+
+
                                         <tr>
                                             <td>
                                                 <img 
@@ -122,9 +125,20 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td height="40" style="height:40px"></td>
+                                            <td height="30" style="height:30px"></td>
                                         </tr>
                                         <tr>
+ <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #FFFFFF;">
+                                    Please forward this to your teams!
+                                </td>
+ <tr>
+                                            <td height="30" style="height:30px"></td>
+                                        </tr>
+
+
+
+
+                                        </tr>
                                             <td>
                                                 <img 
                                                 src="https://1.salesforce-partners.com/l/902521/2025-05-16/wbm4t/902521/1747437662Ym38sS1j/Group_2__6_.png" 
@@ -575,10 +589,7 @@ Two AWS Marketplace dedicated leads:
                         <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U01GE9L3NFN" target="_blank" style="color: #7526E3;">Chris Reichenbacher</a></span> - AMER FINS <br> <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/archives/D08J4CVPPBM" target="_blank" style="color: #7526E3;">Sarah Motta</a></span> - AMER HLS <br><br>
                         
                     </td>
-<tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Please forward this to your teams!
-                                </td>
+                               
 
 
             </table>

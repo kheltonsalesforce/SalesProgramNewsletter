@@ -119,10 +119,26 @@
                                                 alt="Salesforce logo"
                                                 width="315"
                                                 style="display: block; width: 315px; max-width: 315px;">
+
+
                                             </td>
+
+ <tr>
+                                            <td height="30" style="height:30px"></td>
                                         </tr>
+<tr>
+                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #FFFFFF;">
+                                    Please forward this to your teams!
+                                </td>
+
+
+
+
+                                        </tr>
+
+
                                         <tr>
-                                            <td height="40" style="height:40px"></td>
+                                            <td height="20" style="height:20px"></td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -580,10 +596,6 @@ Two AWS Marketplace dedicated leads for UKI:
                     <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 400; color: #001E5B;">
                         <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/WLZ81GH3J" target="_blank" style="color: #7526E3;">Alexandria Ysmael</a></span> <br> <span style="color: #7526E3; text-decoration: underline;"><a href="https://salesforce.enterprise.slack.com/team/U039RQZHC9Y" target="_blank" style="color: #7526E3;">Anna Pitcher</a></span> <br> <span style="color: #7526E3; text-decoration: underline;"><br>
                     </td>
-<tr>
-                                <td style="font-family: Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #001E5B;">
-                                    Please forward this to your teams!
-                                </td>
 
 
             </table>
